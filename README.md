@@ -3,7 +3,7 @@
 ###  ⚡ &nbsp;About Me
 
 📚 I'm currently studying Mechatronics Engineering at the University of Waterloo.\
-🔭 I enjoy working on Software automation solutions for repetitive, boring tasks.\
+🔭 I enjoy working on Software automation solutions for repetitive, boring tasks.
 
 Get in touch!
 
